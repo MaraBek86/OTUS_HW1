@@ -1,0 +1,1 @@
+# OTUS_Python_QA_Engeneer_2023_06
